@@ -31,6 +31,8 @@
 - `Ctrl-o` / `Ctrl-i` : 跳转回退/前进
 - `` ` `` / `'` : 标记跳转 (`ma` 设置标记 a)
 
+> **Cursor 用户注意**：`Ctrl-i` 常与 Cursor 的侧边栏切换（Toggle Sidepanel）或补全建议冲突。这是 IDE+Vim 常见问题。推荐配置见 [Chapter 06](06-customization-in-cursor.md) 中的 "Vim Keybinding Conflicts" 部分，使用 `vim.handleKeys` 让 Vim 正确处理跳转历史，同时保留 IDE 功能。
+
 ### Text Objects - 本章重点 (必须反复练习！)
 
 **语法规则**： `[operator][i|a][object]`

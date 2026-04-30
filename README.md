@@ -33,7 +33,7 @@
 - 第 1-2 章：巩固基础动作与操作符（motions & text objects）
 - 第 3-4 章：寄存器、宏、搜索替换（核心生产力提升）
 - 第 5 章：多文件管理（buffers, windows, tabs）
-- 第 6 章：Cursor 环境下的个性化配置
+- 第 6 章：Cursor 环境下的个性化配置 (含 Vim keybinding 冲突解决，如 Ctrl-i)
 - 第 7-8 章：高级模式、重构实战、日常 drill
 
 **每日 Routine 建议**（15-20 分钟）：

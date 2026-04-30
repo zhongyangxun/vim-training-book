@@ -19,7 +19,7 @@
 ### 跳转与标记
 - `` ` `` `` ' `` - 跳转到标记 (`` `a `` 精确位置, `'a` 行首)
 - `m{a-z}` - 设置标记 a-z
-- `Ctrl-o` `Ctrl-i` - 跳转历史 (back/forward)
+- `Ctrl-o` `Ctrl-i` - 跳转历史 (back/forward)。**Cursor 注意**：常与侧边栏冲突，见 [chapters/06-customization-in-cursor.md](chapters/06-customization-in-cursor.md) 中的 Vim Keybinding Conflicts 配置
 - `gd` - 跳转到定义 (Cursor 中增强)
 - `%` - 匹配括号跳转
 

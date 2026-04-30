@@ -56,6 +56,8 @@ set foldlevel=99              " 默认不折叠
 " === Cursor 特定优化 ===
 " 在 Cursor 中，LSP 和补全通常由扩展提供
 " 以下设置有助于更好的 Vim 体验
+" 注意：keybinding 冲突（如 Ctrl-i）主要在 Cursor 的 settings.json / keybindings.json 中解决
+" 详见 chapters/06-customization-in-cursor.md 中的 Vim Keybinding Conflicts 部分
 set backspace=indent,eol,start
 set laststatus=2
 set scrolloff=8               " 光标保持 8 行距离
