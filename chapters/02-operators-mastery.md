@@ -46,6 +46,6 @@
 
 完成本章后，你应该能快速清理代码和文本。
 
-**下一章**： [chapters/03-registers-and-macros.md](chapters/03-registers-and-macros.md) - 学习如何录制重复操作和使用多个剪贴板。
+**下一章**： [chapters/03-registers-and-macros.md](chapters/03-registers-and-macros.md) - `.` 只能重复上一次改动；下一章会从默认寄存器接到多个剪贴板，以及把多步操作录成宏。
 
 **提示**：多用 `.` 重复命令，这会极大提升效率。
